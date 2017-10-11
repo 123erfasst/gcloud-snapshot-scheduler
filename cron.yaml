@@ -1,0 +1,5 @@
+cron:
+  - description: daily snapshot
+    url: /create/instance-zone-name/instance-disk-name?format=diskName-YYYY-MM-DD-HH-mm&guestFlush=true
+    schedule: every day 03:00
+    target: gcloud-snapshot-scheduler
