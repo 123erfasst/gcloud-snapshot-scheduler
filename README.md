@@ -1,5 +1,7 @@
 # gcloud-instance-scheduler
 
+[![npm-version](https://img.shields.io/npm/v/gcloud-snapshot-scheduler.svg)](https://www.npmjs.com/package/gcloud-snapshot-scheduler)
+
 This is an App Engine in Node.js, that will create snapshots automatically.
 
 ## Usage
